@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    text-align: border;
+	background-color: whitesmoke;
+	
+	background-image: url(https://rb.gy/5hrmo);
+            background-size: cover;
+          
+        }
+        .h2{
+        	background-color: green(15,12,13);
+        }
+        .h3{
+        background-color: green;
+        }
